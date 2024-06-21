@@ -8,7 +8,7 @@
 
 #
 
-<p align="center">Atualmente sou estudante de Engenharia de Software no 1° Semestre na Católica SC (Centro Universitário Católica de Santa Catarina Joinville). Me interesso tanto por front quanto por back-end, e minhas principais linguagens são HTML e CSS. Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!
+<p align="center">Atualmente sou estudante de Engenharia de Software no 1° Semestre na Católica SC (Centro Universitário - Católica de Santa Catarina em Joinville). Me interesso tanto por front quanto por back-end, e minhas principais linguagens são HTML e CSS. Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!
 
 #
 
