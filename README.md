@@ -15,8 +15,6 @@ Estou aprendendo no momemnto sobre a linguagem, HTML, CSS, JS e C ANSI.
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorkeller1604&layout=compact" alt="Linguagens mais utilizadas">
 <a/>
 
-#
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -36,7 +34,7 @@ Estou aprendendo no momemnto sobre a linguagem, HTML, CSS, JS e C ANSI.
 #
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorkeller1604/vitorkeller1604/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorkeller1604/vitorkeller1604/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vitorkeller1604/vitorkeller1604/output/github-contribution-grid-snake.svg">
 </picture>
