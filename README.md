@@ -16,9 +16,9 @@
 
 <h3 align="left">Entre em contato!</h3>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=B300006&color:FFF)](https://www.instagram.com/vitorkeller1604/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=B30000&color:FFF)](https://www.linkedin.com/in/vitorkeller1604/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=B30000&color:FFF)](mailto:vitorkeller1604@hotmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=B300006&color:FFF)]  (https://www.instagram.com/vitorkeller1604/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=B30000&color:FFF)]      (https://www.linkedin.com/in/vitorkeller1604/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=B30000&color:FFF)]  (mailto:vitorkeller1604@hotmail.com)
 
 <h3 align="left">Minha Stack ~</h3>
 
