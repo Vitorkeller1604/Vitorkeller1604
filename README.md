@@ -39,7 +39,7 @@
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vitorkeller1604&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=B30000&text_color=FFF&border_radius=3&border_color=B30000&icon_color=b30000&theme=jolly" alt="GitHub stats">
 
   <a href="https://github.com/vitorkeller1604/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vitorkeller1604&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=B30000&hide=html,css/&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=B30000&count_private=true" alt="Most Used Languages">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vitorkeller1604&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=B30000&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=B30000&count_private=true" alt="Most Used Languages">
   </a>
 </div>
 
