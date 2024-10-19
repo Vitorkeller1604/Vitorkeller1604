@@ -8,7 +8,7 @@
 
 #
 
-<p align="center">Atualmente sou estudante de Engenharia de Software no 2° Semestre no Centro Universitário Católica de Santa Catarina em Joinville. Me interesso por front-end e back-end, minhas principais linguagens são CSS, Java e C++. busco adquirir experiência profissional e aprimorar meus conhecimentos práticos e teóricos para inserção no mercado de trabalho. Sou proativo na execução das minhas funções e adaptável a diferentes atividades, contribuindo ativamente para o crescimento pessoal e profissional. Tenho a capacidade de apoiar a equipe em diversas tarefas, sou organizado e comunicativo, auxiliando nas atividades de rotina e prezando pela eficiência do trabalho!
+<p align="center">Atualmente sou estudante de Engenharia de Software no 2° Semestre no Centro Universitário Católica de Santa Catarina em Joinville. Me interesso por front-end e Back-end, minhas principais linguagens são Java e C++. Busco adquirir experiência profissional e aprimorar meus conhecimentos práticos e teóricos para inserção no mercado de trabalho. Sou proativo na execução das minhas funções e adaptável a diferentes atividades, contribuindo ativamente para o crescimento pessoal e profissional. Sou organizado e comunicativo, auxiliando nas atividades de rotina e prezando pela eficiência do trabalho!
 
 #
 
